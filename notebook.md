@@ -8,6 +8,7 @@ As group, brainstorming ideas. After choosing API, discussed possible functions.
 ## Jan 23
 
 ## Jan 24
+Learn about testthat package and how to use, starting to crack at using 'GET' to access API. Added gitignore.
 
 ## Jan 25
 
