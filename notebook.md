@@ -11,8 +11,10 @@ As group, brainstorming ideas. After choosing API, discussed possible functions.
 Learn about testthat package and how to use, starting to crack at using 'GET' to access API. Added gitignore.
 
 ## Jan 25
+Discussed with Jonah and Madison plan moving forward. I'll keep trying to make a 'get' function working as well, and we will brainstorm possible functions. We will individually work on parts and then compare and review each other's work.
 
 ## Jan 26
+Working on understanding the format of the API.
 
 ## Jan 27
 
