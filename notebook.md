@@ -14,7 +14,7 @@ Learn about testthat package and how to use, starting to crack at using 'GET' to
 Discussed with Jonah and Madison plan moving forward. I'll keep trying to make a 'get' function working as well, and we will brainstorm possible functions. We will individually work on parts and then compare and review each other's work.
 
 ## Jan 26
-Working on understanding the format of the API.
+Working on understanding the format of the API. Worked on understanding the format of the returned JSON. Discussion with group members. Used Jonah's get function, build on top of it to make other parsing functions and visualization.
 
 ## Jan 27
 
