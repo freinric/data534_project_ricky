@@ -26,4 +26,4 @@ Working on understanding the format of the API. Worked on understanding the form
 Cleaned up my functions, added documentation. Added test functions. Linked between files.
 
 ## Jan 31
-Debug unittesting fail. Help Madison debug her functions. Discuss with group members.
+Debug unittesting fail. Help Madison debug her functions. Discuss with group members about presentation. Add error handling to my functions.
