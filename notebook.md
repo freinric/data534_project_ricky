@@ -23,6 +23,7 @@ Working on understanding the format of the API. Worked on understanding the form
 ## Jan 29
 
 ## Jan 30
+Cleaned up my functions, added documentation. Added test functions. Linked between files.
 
 ## Jan 31
 
