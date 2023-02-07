@@ -17,4 +17,8 @@ Cleaned up my functions, added documentation. Added test functions. Linked betwe
 Debug unittesting fail. Help Madison debug her functions. Discuss with group members about presentation. Add error handling to my functions.
 
 ## Feb 2
-Merge my branch with main branch. Inspect pull request and deal with conflicts. Edits to get our final files and functions interacting with each other's properly.
+Merge my branch with main branch. Inspect pull request and deal with conflicts. Edits to get our final files and functions interacting with each other's properly. Adding content to presentation slides.
+
+
+## Feb 6
+Edit presentation slides. Practice presentation with group members, discussion of format and best practices.
