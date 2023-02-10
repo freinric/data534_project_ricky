@@ -1,3 +1,5 @@
+Note that commit under the name 'Frédéric' are mine, as I pushed my commits from RStudio, which takes my name from my local computer.
+
 ## Jan 10 - 20
 As group, brainstorming ideas. After choosing API, discussed possible functions. Jonah summarized, I edited the proposal document and made the pdf version to conform with requirement.
 
@@ -19,6 +21,11 @@ Debug unittesting fail. Help Madison debug her functions. Discuss with group mem
 ## Feb 2
 Merge my branch with main branch. Inspect pull request and deal with conflicts. Edits to get our final files and functions interacting with each other's properly. Adding content to presentation slides.
 
-
 ## Feb 6
 Edit presentation slides. Practice presentation with group members, discussion of format and best practices.
+
+## Feb 7
+Presentation!
+
+## Feb 9
+Was demo-ing project to someone else, and had some bugs I didn't know could happen (missing food group, missing product name). Added some error handling to deal with those cases, and for case that sugar_per_100g was also missing (although I haven't encounted it). Added a test to the unittesting. Reviewed vignette and other final requirements for project.
